@@ -57,7 +57,8 @@ def self.create
     song
   end
   
-  
+  def self.destroy_all
+    
 end
 
 
